@@ -1,0 +1,18 @@
+{
+  "name": "claude-session-reflection",
+  "description": "Analyze session history for inefficiency patterns and propose actionable improvements",
+  "version": "1.0.0",
+  "author": {
+    "name": "Nat Torkington",
+    "email": "nat@torkington.com"
+  },
+  "homepage": "https://github.com/njt/claude-session-reflection",
+  "repository": "https://github.com/njt/claude-session-reflection",
+  "license": "MIT",
+  "keywords": [
+    "session-reflection",
+    "retrospective",
+    "efficiency",
+    "workflow"
+  ]
+}

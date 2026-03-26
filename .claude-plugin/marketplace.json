@@ -1,0 +1,16 @@
+{
+  "name": "claude-session-reflection-dev",
+  "description": "Development marketplace for session reflection plugin",
+  "owner": {
+    "name": "Nat Torkington",
+    "email": "nat@torkington.com"
+  },
+  "plugins": [
+    {
+      "name": "claude-session-reflection",
+      "description": "Analyze session history for inefficiency patterns and propose actionable improvements",
+      "version": "1.0.0",
+      "source": "./"
+    }
+  ]
+}
