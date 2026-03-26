@@ -1,4 +1,4 @@
-# claude-session-reflection
+# powerups-session-reflection
 
 A Claude Code skill that analyzes your recent session history to identify inefficiency patterns and propose actionable improvements.
 
@@ -24,8 +24,8 @@ Clone this repo, then symlink the skill and command into your Claude Code config
 
 ```bash
 # Clone
-git clone https://github.com/njt/claude-session-reflection.git
-cd claude-session-reflection
+git clone https://github.com/njt/powerups-session-reflection.git
+cd powerups-session-reflection
 
 # Symlink skill
 ln -s "$(pwd)/skills/session-reflection" ~/.claude/skills/session-reflection
