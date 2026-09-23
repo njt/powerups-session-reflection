@@ -1,3 +1,8 @@
+---
+name: session-reflection
+description: Analyze recent session history for inefficiency patterns and propose actionable improvements to reduce token waste in future sessions. Use when wrapping up a session, after a long task, or when asked to reflect on how a session went.
+---
+
 # Session Reflection Analysis
 
 Analyze recent chat history to identify improvement opportunities and reduce token waste in future sessions.
